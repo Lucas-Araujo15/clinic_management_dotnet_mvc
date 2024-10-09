@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\healthplan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\healthplan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\controllers\\healthplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\healthplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\models\\healthplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:models\\healthplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\models\\healthplansofapatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:models\\healthplansofapatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\models\\patientsofahealthplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:models\\patientsofahealthplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinicmanagementmvc\\wwwroot\\css\\bootswatchtheme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:wwwroot\\css\\bootswatchtheme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T00:56:33.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T00:30:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:25:57.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:32:39.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:05:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:05:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwG4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:59:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:39:48.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:03:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\HealthPlan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HealthPlan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\HealthPlan\\Index.cshtml",
+              "RelativeToolTip": "Views\\HealthPlan\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T23:16:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:09:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthPlanController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\HealthPlanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthPlanController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\HealthPlanController.cs",
+              "RelativeToolTip": "Controllers\\HealthPlanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:26:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthPlansOfAPatient.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\HealthPlansOfAPatient.cs",
+              "RelativeDocumentMoniker": "Models\\HealthPlansOfAPatient.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\HealthPlansOfAPatient.cs",
+              "RelativeToolTip": "Models\\HealthPlansOfAPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:45:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HealthPlan.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\HealthPlan.cs",
+              "RelativeDocumentMoniker": "Models\\HealthPlan.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\HealthPlan.cs",
+              "RelativeToolTip": "Models\\HealthPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:43:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:05:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientsOfAHealthPlan.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\PatientsOfAHealthPlan.cs",
+              "RelativeDocumentMoniker": "Models\\PatientsOfAHealthPlan.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Models\\PatientsOfAHealthPlan.cs",
+              "RelativeToolTip": "Models\\PatientsOfAHealthPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:45:15.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:23:56.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:23:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BootswatchTheme.css",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\wwwroot\\css\\BootswatchTheme.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\BootswatchTheme.css",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\wwwroot\\css\\BootswatchTheme.css",
+              "RelativeToolTip": "wwwroot\\css\\BootswatchTheme.css",
+              "ViewState": "AQIAAKc3AAAAAAAAAAAIwK83AAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T22:08:26.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

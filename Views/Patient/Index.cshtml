@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ClinicManagementMVC.Models.Patient>
+
+@{
+    ViewData["Title"] = "Lista de Pacientes";
+}
+
+<h1>Lista de Pacientes</h1>
+
+<p>
+    <a href="@Url.Action("Create", "Patient")" class="btn btn-primary">Adicionar Novo Paciente</a>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Data de Nascimento</th>
+                <th>CPF</th>
+                <th>Telefone</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model)
+            {
+                <tr>
+                    <td>@patient.Id</td>
+                    <td>@patient.Name</td>
+                    <td>@patient.DateOfBirth</td>
+                    <td>@patient.Cpf</td>
+                    <td>@patient.Phone</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "Patients", new { id = patient.Id })" class="btn btn-warning">Editar</a>
+                        <a href="@Url.Action("Delete", "Patient", new { id = patient.Id })" method="delete" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nenhum paciente encontrado.</p>
+}
+

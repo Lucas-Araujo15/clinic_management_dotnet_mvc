@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ClinicManagementMVC.Models.HealthPlan>
+
+@{
+    ViewData["Title"] = "Lista de Planos de Saúde";
+}
+
+<h1>Lista de Planos de Sáude</h1>
+
+<p>
+    <a href="@Url.Action("Create", "HealthPlan")" class="btn btn-primary">Adicionar Novo Plano de Saúde</a>
+</p>
+
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Código do plano</th>
+                <th>Cobertura</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var healthPlan in Model)
+            {
+                <tr>
+                    <td>@healthPlan.Id</td>
+                    <td>@healthPlan.Name</td>
+                    <td>@healthPlan.PlanCode</td>
+                    <td>@healthPlan.Coverage</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "HealthPlan", new { id = healthPlan.Id })" class="btn btn-warning">Editar</a>
+                        <a href="@Url.Action("Delete", "HealthPlan", new { id = healthPlan.Id })" method="delete" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nenhum plano de saúde encontrado.</p>
+}

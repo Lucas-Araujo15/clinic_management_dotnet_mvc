@@ -135,5 +135,26 @@ namespace ClinicManagementMVC.Controllers
 
             return View(patientDetailed);
         }
+
+        [HttpGet("patient/{patientId}/patienthealthplan/{patientHealthPlanId}")]
+        public async Task<IActionResult> DeletePatientHealthPlan(int patientId, int patientHealthPlanId)
+        {
+            if (ModelState.IsValid)
+            {
+                var client = _clientFactory.CreateClient("APIClient");
+                HttpResponseMessage response = await client.DeleteAsync("api/patienthealthplans/" + patientHealthPlanId);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    return RedirectToAction("Detail", new { id = patientId });
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Não foi possível excluir a associação");
+                }
+            }
+
+            return RedirectToAction("Detail", new { id = patientId });
+        }
     }
 }

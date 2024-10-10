@@ -4,60 +4,60 @@
     ViewData["Title"] = "Editar Paciente";
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1 class="mt-3">@ViewData["Title"]</h1>
 
-<form asp-action="Update" asp-route-id="@Model.Id" method="post">
-    <div class="form-group">
+<form asp-action="Update" class="mt-3" asp-route-id="@Model.Id" method="post">
+    <div class="form-group mt-3">
         <label asp-for="Name" class="control-label">Nome</label>
         <input asp-for="Name" class="form-control" value="@Model.Name"/>
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="DateOfBirth" class="control-label">Data de Nascimento</label>
-        <input asp-for="DateOfBirth" type="date" class="form-control" value="@Model.DateOfBirth" />
+        <input asp-for="DateOfBirth" type="date" class="form-control" value="@Model.DateOfBirth.ToString("yyyy-MM-dd")" />
         <span asp-validation-for="DateOfBirth" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="Cpf" class="control-label">CPF</label>
         <input asp-for="Cpf" class="form-control" value="@Model.Cpf" />
         <span asp-validation-for="Cpf" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="Phone" class="control-label">Telefone</label>
         <input asp-for="Phone" class="form-control" value="@Model.Phone" />
         <span asp-validation-for="Phone" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.Street" class="control-label">Endereço</label>
         <input asp-for="address.Street" class="form-control" value="@Model.address.Street" />
         <span asp-validation-for="address.Street" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.AddressNumber" class="control-label">Número</label>
         <input asp-for="address.AddressNumber" class="form-control" value="@Model.address.AddressNumber" />
         <span asp-validation-for="address.AddressNumber" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.Neighborhood" class="control-label">Bairro</label>
         <input asp-for="address.Neighborhood" class="form-control" value="@Model.address.Neighborhood" />
         <span asp-validation-for="address.Neighborhood" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.City" class="control-label">Cidade</label>
         <input asp-for="address.City" class="form-control" value="@Model.address.City" />
         <span asp-validation-for="address.City" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.State" class="control-label">Estado</label>
         <input asp-for="address.State" class="form-control" value="@Model.address.State" />
         <span asp-validation-for="address.State" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <label asp-for="address.PostalCode" class="control-label">CEP</label>
         <input asp-for="address.PostalCode" class="form-control" value="@Model.address.PostalCode" />
         <span asp-validation-for="address.PostalCode" class="text-danger"></span>
     </div>
-    <div class="form-group">
+    <div class="form-group mt-3">
         <button type="submit" class="btn btn-primary">Salvar</button>
         <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
     </div>

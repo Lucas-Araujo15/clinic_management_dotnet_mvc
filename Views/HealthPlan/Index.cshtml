@@ -4,16 +4,16 @@
     ViewData["Title"] = "Lista de Planos de Saúde";
 }
 
-<h1>Lista de Planos de Sáude</h1>
+<h1 class="mt-3">Lista de Planos de Sáude</h1>
 
-<p>
+<p class="mt-3">
     <a href="@Url.Action("Create", "HealthPlan")" class="btn btn-primary">Adicionar Novo Plano de Saúde</a>
 </p>
 
 
 @if (Model != null && Model.Any())
 {
-    <table class="table">
+    <table class="table mt-3">
         <thead>
             <tr>
                 <th>Id</th>
@@ -44,5 +44,5 @@
 }
 else
 {
-    <p>Nenhum plano de saúde encontrado.</p>
+    <p class="mt-3">Nenhum plano de saúde encontrado.</p>
 }

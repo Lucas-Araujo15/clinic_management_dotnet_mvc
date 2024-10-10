@@ -4,10 +4,10 @@
     ViewData["Title"] = "Plano de Saúde";
 }
 
-<h1>@Model.HealthPlan.Name</h1>
+<h1 class="mt-3">@Model.HealthPlan.Name</h1>
 
-<div class="container">
-    <div class="row d-flex align-content-center">
+<div class="container mt-3">
+    <div class="row d-flex align-content-center mt-3">
         <ul class="list-group col">
             <li class="list-group-item">
                 <h5>Código do Plano</h5>
@@ -19,15 +19,12 @@
             </li>
         </ul>
     </div>
-    <div class="row">
+    <div class="row mt-3">
         <h2 class="mt-3">Pacientes Associados</h2>
-        <p>
-            <a href="@Url.Action("Create", "Patient")" class="btn btn-primary">Adicionar Novo Paciente</a>
-        </p>
 
         @if (Model.Patients != null && Model.Patients.Any())
         {
-            <table class="table">
+            <table class="table mt-3">
                 <thead>
                     <tr>
                         <th>Id</th>
@@ -48,9 +45,7 @@
                             <td>@item.Patient.Cpf</td>
                             <td>@item.Patient.Phone</td>
                             <td>
-                               @*  <a href="@Url.Action("Edit", "Patients", new { id = patient.Id })" class="btn btn-warning">Editar</a>
-                                <a href="@Url.Action("Delete", "Patient", new { id = patient.Id })" method="delete" class="btn btn-danger">Excluir</a>
-                                <a href="@Url.Action("Detail", "Patient", new { id = patient.Id })" class="btn btn-info">Ver Mais</a> *@
+                                <a href="@Url.Action("DeletePatientHealthPlan", "HealthPlan", new { patientHealthPlanId = item.Id, healthPlanId = Model.HealthPlan.Id })" method="delete" class="btn btn-danger">Excluir</a>
                             </td>
                         </tr>
                     }
@@ -59,7 +54,7 @@
         }
         else
         {
-            <p>Nenhum paciente associado a esse plano de saúde.</p>
+            <p class="mt-3">Nenhum paciente associado a esse plano de saúde.</p>
         }
     </div>
 </div>

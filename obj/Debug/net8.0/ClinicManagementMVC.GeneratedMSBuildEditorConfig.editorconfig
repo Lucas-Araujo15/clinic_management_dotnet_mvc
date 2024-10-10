@@ -9,75 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClinicManagementMVC
 build_property.RootNamespace = ClinicManagementMVC
-build_property.ProjectDir = C:\Users\labsfiap\Desktop\clinic_management_dotnet_mvc\
+build_property.ProjectDir = C:\FIAP-2_ANO\clinic_management_dotnet_mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\labsfiap\Desktop\clinic_management_dotnet_mvc
+build_property.MSBuildProjectDirectory = C:\FIAP-2_ANO\clinic_management_dotnet_mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/HealthPlan/Create.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/HealthPlan/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoUGxhblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/HealthPlan/Detail.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/HealthPlan/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoUGxhblxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/HealthPlan/Edit.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/HealthPlan/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoUGxhblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/HealthPlan/Index.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/HealthPlan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoUGxhblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Home/Index.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Home/Privacy.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/PatientHealthPlan/Create.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/PatientHealthPlan/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhlYWx0aFBsYW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Patient/Create.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Patient/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Patient/Detail.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Patient/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Patient/Edit.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Patient/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Patient/Index.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Patient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Shared/Error.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/_ViewImports.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/_ViewStart.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/labsfiap/Desktop/clinic_management_dotnet_mvc/Views/Shared/_Layout.cshtml]
+[C:/FIAP-2_ANO/clinic_management_dotnet_mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a5d096jtnk

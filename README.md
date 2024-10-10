@@ -16,6 +16,8 @@ O projeto envolveu o desenvolvimento de uma aplicação web utilizando o framewo
   - **Visualização de Vínculos**: Visualizar todos os planos de saúde associados a um paciente e todos os pacientes vinculados a um plano de saúde.
 
 ## Vídeo Demonstração
+Link: https://youtu.be/AfF7dxSA2dQ
+
 [![](https://img.youtube.com/vi/AfF7dxSA2dQ/0.jpg)](https://youtu.be/AfF7dxSA2dQ)
 
 # Instruções para executar o projeto (API)

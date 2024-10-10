@@ -1,0 +1,27 @@
+﻿@model ClinicManagementMVC.Models.HealthPlan;
+
+@{
+    ViewData["Title"] = "Editar Plano de Saúde";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Update" asp-route-id="@Model.Id" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Nome</label>
+        <input asp-for="Name" class="form-control" value="@Model.Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Coverage" class="control-label">Cobertura</label>
+        <input asp-for="Coverage" class="form-control" value="@Model.Coverage" />
+        <span asp-validation-for="Coverage" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input asp-for="PlanCode" type="hidden" class="form-control" value="@Model.PlanCode" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

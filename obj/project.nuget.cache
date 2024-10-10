@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlRl1nPDItw=",
+  "dgSpecHash": "t8gxYcxzXpQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\labsfiap\\Desktop\\ClinicManagementMVC\\ClinicManagementMVC.csproj",
+  "projectFilePath": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ClinicManagementMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Softwares\\Nuget\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Softwares\\Nuget\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

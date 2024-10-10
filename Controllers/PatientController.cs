@@ -1,4 +1,5 @@
 ﻿using ClinicManagementMVC.Models;
+using ClinicManagementMVC.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ClinicManagementMVC.Controllers
@@ -109,6 +110,30 @@ namespace ClinicManagementMVC.Controllers
             }
 
             return View(patient);
+        }
+
+        [HttpGet("patients/detail/{id}")]
+        public async Task<IActionResult> Detail(int id)
+        {
+            var client = _clientFactory.CreateClient("APIClient");
+            PatientDetailedViewModel patientDetailed = new PatientDetailedViewModel();
+
+            HttpResponseMessage responsePatient = await client.GetAsync("api/patients/" + id);
+
+            if (responsePatient.IsSuccessStatusCode)
+            {
+                patientDetailed.Patient = await responsePatient.Content.ReadFromJsonAsync<Patient>();
+            }
+
+            HttpResponseMessage responsePatientHealthPlans = await client.GetAsync("api/patienthealthplans/health-plans/" + id);
+
+
+            if (responsePatientHealthPlans.IsSuccessStatusCode)
+            {
+                patientDetailed.HealthPlans = await responsePatientHealthPlans.Content.ReadFromJsonAsync<List<HealthPlansOfAPatient>>();
+            }
+
+            return View(patientDetailed);
         }
     }
 }

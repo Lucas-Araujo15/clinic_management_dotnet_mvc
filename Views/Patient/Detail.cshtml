@@ -1,0 +1,91 @@
+﻿@model ClinicManagementMVC.ViewModels.PatientDetailedViewModel;
+
+@{
+    ViewData["Title"] = "Paciente";
+}
+
+<h1>@Model.Patient.Name</h1>
+
+<div class="container">
+    <div class="row">
+        <ul class="list-group col">
+            <li class="list-group-item">
+                <h5>Id</h5>
+                <p>@Model.Patient.Id</p>
+            </li>
+            <li class="list-group-item">
+                <h5>Data de Nascimento</h5>
+                <p>@Model.Patient.DateOfBirth</p>
+            </li>
+            <li class="list-group-item">
+                <h5>CPF</h5>
+                <p>@Model.Patient.Cpf</p>
+            </li>
+            <li class="list-group-item">
+                <h5>Telefone</h5>
+                <p>@Model.Patient.Phone</p>
+            </li>
+        </ul>
+        <ul class="list-group col">
+            <li class="list-group-item">
+                <h5>Rua</h5>
+                <p>@Model.Patient.address.Street</p>
+            </li>
+            <li class="list-group-item">
+                <h5>Bairro</h5>
+                <p>@Model.Patient.address.Neighborhood</p>
+            </li>
+            <li class="list-group-item">
+                <h5>Cidade</h5>
+                <p>@Model.Patient.address.City</p>
+            </li>
+            <li class="list-group-item">
+                <h5>Estado</h5>
+                <p>@Model.Patient.address.State</p>
+            </li>
+        </ul>
+    </div>
+    <div class="row">
+        <h2 class="mt-3">Planos de Saúde Associados</h2>
+
+        <p>
+            <a href="@Url.Action("Create", "HealthPlan")" class="btn btn-primary">Adicionar Novo Plano de Saúde</a>
+        </p>
+
+        @if (Model.HealthPlans != null && Model.HealthPlans.Any())
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Código do plano</th>
+                        <th>Cobertura</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var healthPlan in Model.HealthPlans)
+                    {
+                        <tr>
+                            <td>@healthPlan.HealthPlan.Id</td>
+                            <td>@healthPlan.HealthPlan.Name</td>
+                            <td>@healthPlan.HealthPlan.PlanCode</td>
+                            <td>@healthPlan.HealthPlan.Coverage</td>
+                            <td>
+                                @* <a href="@Url.Action("Edit", "HealthPlan", new { id = healthPlan.Id })" class="btn btn-warning">Editar</a>
+                                <a href="@Url.Action("Delete", "HealthPlan", new { id = healthPlan.Id })" method="delete" class="btn btn-danger">Excluir</a>
+                                <a href="@Url.Action("Detail", "HealthPlan", new { id = healthPlan.Id })" class="btn btn-info">Ver Mais</a>
+ *@
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Nenhum plano de saúde encontrado.</p>
+        }
+    </div>
+</div>

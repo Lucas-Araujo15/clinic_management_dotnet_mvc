@@ -34,6 +34,8 @@
                     <td>
                         <a href="@Url.Action("Edit", "HealthPlan", new { id = healthPlan.Id })" class="btn btn-warning">Editar</a>
                         <a href="@Url.Action("Delete", "HealthPlan", new { id = healthPlan.Id })" method="delete" class="btn btn-danger">Excluir</a>
+                        <a href="@Url.Action("Detail", "HealthPlan", new { id = healthPlan.Id })" class="btn btn-info">Ver Mais</a>
+
                     </td>
                 </tr>
             }

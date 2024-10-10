@@ -11,20 +11,24 @@
       "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\patienthealthplan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\patienthealthplan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\healthplan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\healthplan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\healthplan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\healthplan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\healthplan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\healthplan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\viewmodels\\createpatienthealthplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|c:\\users\\labsfiap\\desktop\\clinic_management_dotnet_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50F80CD1-0070-444A-8ED2-4FC854650993}|ClinicManagementMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -144,9 +144,47 @@
               "RelativeDocumentMoniker": "Controllers\\PatientHealthPlanController.cs",
               "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\PatientHealthPlanController.cs",
               "RelativeToolTip": "Controllers\\PatientHealthPlanController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAywBMAAAAJAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T00:12:32.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\PatientHealthPlan\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PatientHealthPlan\\Create.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\PatientHealthPlan\\Create.cshtml",
+              "RelativeToolTip": "Views\\PatientHealthPlan\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T23:51:04.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HealthPlan\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HealthPlan\\Detail.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T22:45:43.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HealthPlan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Index.cshtml",
+              "RelativeToolTip": "Views\\HealthPlan\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T23:16:45.2Z",
               "EditorCaption": ""
             },
             {
@@ -157,165 +195,9 @@
               "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
               "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\PatientController.cs",
               "RelativeToolTip": "Controllers\\PatientController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFEAAAAMAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T22:59:44.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\PatientHealthPlan\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\PatientHealthPlan\\Create.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\PatientHealthPlan\\Create.cshtml",
-              "RelativeToolTip": "Views\\PatientHealthPlan\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T23:51:04.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\HealthPlan\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Detail.cshtml",
-              "RelativeToolTip": "Views\\HealthPlan\\Detail.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T22:45:43.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:05:49.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HealthPlan\\Index.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Index.cshtml",
-              "RelativeToolTip": "Views\\HealthPlan\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T23:16:45.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreatePatientHealthPlanViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\CreatePatientHealthPlanViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CreatePatientHealthPlanViewModel.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\CreatePatientHealthPlanViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CreatePatientHealthPlanViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T00:09:50.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\HealthPlan\\Create.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Create.cshtml",
-              "RelativeToolTip": "Views\\HealthPlan\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T22:08:31.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PatientDetailedViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\PatientDetailedViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\PatientDetailedViewModel.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\PatientDetailedViewModel.cs",
-              "RelativeToolTip": "ViewModels\\PatientDetailedViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:23:03.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateHealthPlanRequest.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreateHealthPlanRequest.cs",
-              "RelativeDocumentMoniker": "Models\\Request\\CreateHealthPlanRequest.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreateHealthPlanRequest.cs",
-              "RelativeToolTip": "Models\\Request\\CreateHealthPlanRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:21:54.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreatePatientHealthPlanRequest.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreatePatientHealthPlanRequest.cs",
-              "RelativeDocumentMoniker": "Models\\Request\\CreatePatientHealthPlanRequest.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreatePatientHealthPlanRequest.cs",
-              "RelativeToolTip": "Models\\Request\\CreatePatientHealthPlanRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:58:20.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HealthPlan.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\HealthPlan.cs",
-              "RelativeDocumentMoniker": "Models\\HealthPlan.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\HealthPlan.cs",
-              "RelativeToolTip": "Models\\HealthPlan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:43:38.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HealthPlanController.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HealthPlanController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HealthPlanController.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HealthPlanController.cs",
-              "RelativeToolTip": "Controllers\\HealthPlanController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAHsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:26:25.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Patient\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Patient\\Detail.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T23:21:56.592Z",
               "EditorCaption": ""
             },
             {
@@ -324,7 +206,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:09:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:05:49.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePatientHealthPlanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\CreatePatientHealthPlanViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreatePatientHealthPlanViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\CreatePatientHealthPlanViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreatePatientHealthPlanViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:09:50.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HealthPlan\\Create.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Create.cshtml",
+              "RelativeToolTip": "Views\\HealthPlan\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T22:08:31.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientDetailedViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\PatientDetailedViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PatientDetailedViewModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\PatientDetailedViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PatientDetailedViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:23:03.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateHealthPlanRequest.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreateHealthPlanRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\CreateHealthPlanRequest.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreateHealthPlanRequest.cs",
+              "RelativeToolTip": "Models\\Request\\CreateHealthPlanRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:21:54.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePatientHealthPlanRequest.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreatePatientHealthPlanRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\CreatePatientHealthPlanRequest.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Request\\CreatePatientHealthPlanRequest.cs",
+              "RelativeToolTip": "Models\\Request\\CreatePatientHealthPlanRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:58:20.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthPlan.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\HealthPlan.cs",
+              "RelativeDocumentMoniker": "Models\\HealthPlan.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\HealthPlan.cs",
+              "RelativeToolTip": "Models\\HealthPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:43:38.855Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "HealthPlanController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HealthPlanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthPlanController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Controllers\\HealthPlanController.cs",
+              "RelativeToolTip": "Controllers\\HealthPlanController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:26:25.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Detail.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T23:21:56.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "PatientsOfAHealthPlan.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\PatientsOfAHealthPlan.cs",
               "RelativeDocumentMoniker": "Models\\PatientsOfAHealthPlan.cs",
@@ -332,12 +335,11 @@
               "RelativeToolTip": "Models\\PatientsOfAHealthPlan.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:45:15.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T22:45:15.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\Patient.cs",
@@ -345,12 +347,11 @@
               "RelativeToolTip": "Models\\Patient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:32:39.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T22:32:39.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HealthPlansOfAPatient.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\HealthPlansOfAPatient.cs",
               "RelativeDocumentMoniker": "Models\\HealthPlansOfAPatient.cs",
@@ -358,12 +359,11 @@
               "RelativeToolTip": "Models\\HealthPlansOfAPatient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:45:37.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T22:45:37.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -371,12 +371,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:41:33.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T23:41:33.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Patient\\Index.cshtml",
@@ -384,12 +383,11 @@
               "RelativeToolTip": "Views\\Patient\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T22:25:57.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T22:25:57.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -397,12 +395,11 @@
               "RelativeToolTip": "Models\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:39:48.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T22:39:48.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HealthPlanDetailedViewModel.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\ViewModels\\HealthPlanDetailedViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\HealthPlanDetailedViewModel.cs",
@@ -410,12 +407,11 @@
               "RelativeToolTip": "ViewModels\\HealthPlanDetailedViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:14:36.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T23:14:36.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\HealthPlan\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\HealthPlan\\Edit.cshtml",
@@ -423,12 +419,11 @@
               "RelativeToolTip": "Views\\HealthPlan\\Edit.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T22:28:40.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T22:28:40.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Patient\\Create.cshtml",
@@ -436,12 +431,11 @@
               "RelativeToolTip": "Views\\Patient\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T00:30:51.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T00:30:51.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Patient\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Patient\\Edit.cshtml",
@@ -449,12 +443,11 @@
               "RelativeToolTip": "Views\\Patient\\Edit.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAwwD8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T00:56:33.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T00:56:33.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -466,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -478,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -486,20 +479,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:03:52.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\clinic_management_dotnet_mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T22:09:09.023Z"
+              "WhenOpened": "2024-10-08T23:03:52.82Z"
             },
             {
               "$type": "Document",

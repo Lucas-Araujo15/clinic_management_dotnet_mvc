@@ -19,6 +19,7 @@ namespace ClinicManagementMVC.Controllers
             return View();
         }
 
+        [HttpGet("/patienthealth/create")]
         public async Task<IActionResult> Create()
         {
             var client = _clientFactory.CreateClient("APIClient");
@@ -35,6 +36,28 @@ namespace ClinicManagementMVC.Controllers
             if (responseHealthPlans.IsSuccessStatusCode)
             {
                 viewModel.HealthPlans = await responseHealthPlans.Content.ReadFromJsonAsync<List<HealthPlan>>();
+            }
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(CreatePatientHealthPlanViewModel viewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                var client = _clientFactory.CreateClient("APIClient");
+                HttpResponseMessage response = await client.PostAsJsonAsync("api/patienthealthplans", viewModel.CreatePatientHealthPlanRequest);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Não foi possível adicionar o paciente");
+                }
             }
 
             return View(viewModel);
